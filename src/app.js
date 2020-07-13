@@ -83,3 +83,5 @@ app.post("/repositories/:id/like", (request, response) => {
 });
 
 module.exports = app;
+
+// Utiliza 'yarn test' no terminal para testar
